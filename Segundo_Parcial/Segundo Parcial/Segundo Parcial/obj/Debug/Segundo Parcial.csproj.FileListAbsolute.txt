@@ -1,0 +1,43 @@
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Segundo Parcial.exe.config
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Segundo Parcial.exe
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Segundo Parcial.pdb
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.csprojAssemblyReference.cache
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.frmLogin.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Properties.Resources.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.csproj.GenerateResource.cache
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.csproj.CoreCompileInputs.cache
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.exe
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.pdb
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.frmAdmin.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.UsersMaintenance.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.AllUsers.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.CommerceMaintenance.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.ProductMaintenance.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.AllOrders.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.frmChangePass.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.frmClient.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.OrdersMaintenance.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.DirectionsMaintenance.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo_Parcial.Vista.AllMyOrders.resources
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Npgsql.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Buffers.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Memory.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Text.Json.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.ValueTuple.dll
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Npgsql.pdb
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Npgsql.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Buffers.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Memory.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Text.Json.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\System.ValueTuple.xml
+C:\Users\majub\Desktop\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.csproj.CopyComplete
